@@ -1,0 +1,14 @@
+You: hi
+Bot (greeting): Hello! How can I help you today?
+
+You: what is your name?
+Bot (question): I'm a Rule-Based ChatBot.
+
+You: how are you?
+Bot (question): I'm a rule-based bot, so I don't have feelings, but I'm here to help!
+
+You: thanks
+Bot (other): I'm not sure I understand. Could you rephrase?
+
+You: bye
+Bot (farewell): Goodbye! Have a great day!
